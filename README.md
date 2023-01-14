@@ -3,7 +3,7 @@ MEDICTOR
 This is a web based application developed for Medictor
 
 
-**Project Link** -
+**Project Link** - https://gentle-bay-0a4c84810.2.azurestaticapps.net
 
 **project demo video link** - 
 
