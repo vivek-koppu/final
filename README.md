@@ -30,6 +30,7 @@ This is a web based application developed for Medictor
 ![image](https://user-images.githubusercontent.com/105732304/212460040-c3bac05f-30bb-4ad9-9abe-f505ae1bf0ad.png)
 ![image](https://user-images.githubusercontent.com/105732304/212460063-febf63ec-4850-418e-8f56-0cae99702a75.png)
 ![image](https://user-images.githubusercontent.com/105732304/212460091-02e4bc91-166c-47d3-853d-976b88373681.png)
+![image](https://user-images.githubusercontent.com/105732304/212460267-5b03e526-8428-4fd3-b3ac-fc1aff0c396c.png)
 ![image](https://user-images.githubusercontent.com/105732304/209972748-5abf8970-cb19-4d04-a61d-ee7ceb28a736.png)
 ![image](https://user-images.githubusercontent.com/105732304/209972863-ac08e10e-5a1e-4e90-b2ff-63744dc08e08.png)
 
