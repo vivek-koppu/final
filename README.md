@@ -5,7 +5,7 @@ This is a web based application developed for Medictor
 
 **Project Link** - https://gentle-bay-0a4c84810.2.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/mPNbpr5j7EE
 
 ## Azure technologies used for Project
 
